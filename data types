@@ -1,0 +1,12 @@
+Example URL : https://www.digitalocean.com/community/tutorials/python-data-types
+
+Int // 1 2 3 4 5
+Float // 1.1 1.12 1.2334
+String // "Jhasdja2713672161@!2Q8372184"
+Boolean // true or flase, or in old languages 0 or 1
+null undefined 
+array //  b=["hello","john","reese"]
+
+  #a sample dictionary variable
+    
+    a = {1:"first name",2:"last name", "age":33}
